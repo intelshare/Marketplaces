@@ -17,7 +17,7 @@ Darkforum |https://darkforums.st
 Sinisterly |https://sinister.ly 
 Niflheim |https://niflheim.top 
 Nulled ❌| https://www.nulled.to | Raided by FBI 
-Leakbase |https://leakbase.cc
+Leakbase |https://leakbase.la | .cc is gone
 Zelenka/Lolzteam |https://lzt.market
 RuTOR |https://rutor.org
 Alphv Forum |https://alphv.ru
