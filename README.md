@@ -132,4 +132,5 @@ Voided | https://voided.to/
 Leakforum | https://leakforum.cc/
 Xreactor | https://xreactor.org
 BFD | https://bfd.cx/
+Hack Liberty | https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources
 
