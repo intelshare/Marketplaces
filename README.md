@@ -134,3 +134,39 @@ Xreactor | https://xreactor.org
 BFD | https://bfd.cx/
 Hack Liberty | https://git.hackliberty.org/hackliberty.org/Hack-Liberty-Resources
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ⚠️ Disclaimer
+
+> These links is provided **exclusively for educational and ethical research purposes.**
+>
+> - ❌ Do **NOT** use it on personal machines.
+> - ❌ Do **NOT** distribute this links with malicious intent.
+> - ✅ Use only in isolated VMs or Whonix.
+>
+> The author takes **no responsibility** for misuse or damages. By using this forums, you agree to use it **legally and ethically**, in full compliance with local and international laws.
+
+---
