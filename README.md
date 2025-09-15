@@ -10,11 +10,11 @@ Tables:
 |Forums|Link||
 |---|---|---|
 |   |   |   |
-Breachforums |http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion 
-XSS |https://xss.pro |  Raided by SBU 
+XSS |https://xss.pro |  https://xssforum7mmh3n56inuf2h73hvhnzobi7h2ytb3gvklrfqm7ut3xdnyd.onion/
 RAMP |https://Ramp4u.io | https://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion
 Exploitin |https://exploit.in | https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion
 DamageLib | http://damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion/forum/
+Rehub  | rehubcom.pro | rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion/
 Darkforum |https://darkforums.st
 Sinisterly |https://sinister.ly 
 Niflheim |https://niflheim.top 
