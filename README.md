@@ -15,11 +15,11 @@ RAMP |https://Ramp4u.io | https://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5
 Exploitin |https://exploit.in | https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion
 DamageLib | http://damaga377vyvydeqeuigxvl6g5sbmipoxb5nne6gpj3sisbnslbhvrqd.onion/forum/
 Rehub  | rehubcom.pro | rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion/
+XSSF | XSSF.net |
 Darkforum |https://darkforums.st
 Sinisterly |https://sinister.ly 
-Niflheim |https://niflheim.top 
-Nulled ❌| https://www.nulled.to | Raided by FBI 
-Leakbase |https://leakbase.la | .cc is gone
+Niflheim |https://niflheim.top  
+Leakbase |https://leakbase.la | 
 Zelenka/Lolzteam |https://lzt.market
 RuTOR |https://rutor.org
 Alphv Forum |https://alphv.ru
